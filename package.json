@@ -1,0 +1,21 @@
+{
+  "name": "allex_availablelanservicesservice",
+  "version": "0.1.0",
+  "description": "AvailableLanServicesService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.hers.rs:allex_services/availablelanservices.git"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "AvailableLanServices"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
+
