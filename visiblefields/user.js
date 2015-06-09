@@ -1,1 +1,1 @@
-module.exports = ['instancename','modulename','propertyhash','roleremapping','ipaddress','tcpport','httpport','wsport'];
+module.exports = ['instancename','modulename','propertyhash','strategies','ipaddress','tcpport','httpport','wsport'];
