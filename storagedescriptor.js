@@ -8,7 +8,7 @@ module.exports = {
     },{
       name: 'propertyhash'
     },{
-      name: 'roleremapping'
+      name: 'strategies'
     },{
       name: 'ipaddress'
     },{
