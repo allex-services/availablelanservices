@@ -8,7 +8,8 @@ module.exports = {
     },{
       name: 'propertyhash'
     },{
-      name: 'strategies'
+      name: 'strategies',
+      default:{}
     },{
       name: 'ipaddress'
     },{
