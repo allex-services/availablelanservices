@@ -1,4 +1,5 @@
 function createAvailableLanServicesService(execlib,ParentServicePack){
+  'use strict';
   var ParentService = ParentServicePack.Service,
       dataSuite = execlib.dataSuite,
       MemoryStorage = dataSuite.MemoryStorage;
