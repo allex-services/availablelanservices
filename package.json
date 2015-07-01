@@ -1,6 +1,6 @@
 {
   "name": "allex_availablelanservicesservice",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AvailableLanServicesService",
   "main": "index.js",
   "scripts": {
