@@ -23,7 +23,7 @@ module.exports = {
       default: 0
     },{
       name: 'debug'
-    },
+    },{
       name: 'debug_brk'
     },{
       name: 'created',
