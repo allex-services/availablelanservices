@@ -26,6 +26,8 @@ module.exports = {
     },{
       name: 'debug_brk'
     },{
+      name: 'prof'
+    },{
       name: 'created',
       default: "{{Date.now()}}"
     }]

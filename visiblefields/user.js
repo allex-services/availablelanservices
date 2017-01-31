@@ -1,1 +1,1 @@
-module.exports = ['instancename','modulename','propertyhash','strategies','ipaddress','tcpport','httpport','wsport','debug','debug_brk'];
+module.exports = ['instancename','modulename','propertyhash','strategies','ipaddress','tcpport','httpport','wsport','debug','debug_brk','prof'];
