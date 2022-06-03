@@ -16,11 +16,17 @@ module.exports = {
       name: 'tcpport',
       default: 0
     },{
+      name: 'tcpoptions'
+    },{
       name: 'httpport',
       default: 0
     },{
+      name: 'httpoptions'
+    },{
       name: 'wsport',
       default: 0
+    },{
+      name: 'wsoptions'
     },{
       name: 'debug'
     },{
