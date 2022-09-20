@@ -34,6 +34,8 @@ module.exports = {
     },{
       name: 'prof'
     },{
+      name: 'gate'
+    },{
       name: 'created',
       default: "{{Date.now()}}"
     }]
